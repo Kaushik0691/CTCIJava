@@ -13,7 +13,7 @@ public class IsUnique {
 		HashMap <Character, Integer> myMap = new HashMap <Character, Integer>();
 		
 		for(int i=0; i<s.length(); i++){
-			if( myMap.get(s.charAt(i)) != null){
+			if( myMap.get(s.charAt(i)) != null){ // Character already present in the HashMap.
 					result = false;
 			}
 			myMap.put(s.charAt(i), 1);
