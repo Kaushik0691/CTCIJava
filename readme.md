@@ -1,1 +1,0 @@
-CTCI Java solutions
