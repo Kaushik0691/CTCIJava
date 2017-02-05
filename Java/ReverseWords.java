@@ -1,4 +1,6 @@
 // Program to reverse the words in a sentence.
+// Sample Input: The quick brown fox jumped over the lazy dog
+// Sample output: ehT kciuq nworb xof depmuj revo eht yzal god
 
 public class ReverseWords {
 
